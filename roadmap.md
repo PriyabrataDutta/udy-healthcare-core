@@ -1,0 +1,2 @@
+- [x] Build and verify the five-page UDY Healthcare website.
+- [ ] Package the project asset folder as a downloadable ZIP.
